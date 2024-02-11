@@ -40,6 +40,10 @@ Access the API at http://127.0.0.1:8000/api/.
 
 Authentication: To access API endpoints, you need to authenticate by obtaining a token. You can do this by logging in with a valid user account and obtaining a token.
 
+## Screenshot
+![Screenshot (32)](https://github.com/Vazidnh3/User_Location/assets/111126298/c060674b-ccf3-4e3f-9c45-4dcb768e3484)
+![Screenshot (31)](https://github.com/Vazidnh3/User_Location/assets/111126298/0fcb64be-8073-4b2a-8490-a15b97f07521)
+
 ## Endpoints
 
 List all tasks: GET /api/tasks/
